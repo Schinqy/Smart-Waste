@@ -7,7 +7,7 @@
 	// REPLACE with Database user
 	$username = "id20650174_admin1";
 	// REPLACE with Database user password
-	$password = "d@t@pAssc0d6";
+	$password = "";
 
 
 	// Create connection
