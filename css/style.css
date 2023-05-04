@@ -1,0 +1,40 @@
+#container2{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	
+}
+#bin-container {
+display: flex;
+flex-direction: column;
+justify-content: space-between;
+  height: 70vh;
+  width: 70%;
+  background-color: black;
+  border-radius: 30px 30px 0 0;
+  border-style: solid;
+  border-width: 15px;
+}
+
+#trash-level {
+  
+  height: 1vh;
+  background-color: blue;
+  text-align: center;
+  line-height: 5rem ;
+  color: white;
+  overflow: hidden;
+}
+
+.navbar .navbar-nav > li > a:hover, .navbar-default .navbar-nav > li > a:focus {
+    background-color: red;
+    color: #FFC0CB;
+}
+
+
+/*img[alt="www.000webhost.com"] 
+         {opacity:0;} */ 
+         img[src="https://cdn.000webhost.com/000webhost/logo/footer-powered-by-000webhost-white2.png"]
+         {
+display:none!important;
+}
